@@ -51,7 +51,7 @@ body {
 }
 
 .hero-image .container {
-  max-width: 1408px;
+  max-width: 408px;
   text-align: center;
 }
 
@@ -65,7 +65,7 @@ body {
 
 .hero-image p {
   margin: 0;
-  font-size: 32px;
+  font-size: 22px;
   line-height: 48px;
 }
 
